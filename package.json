@@ -1,0 +1,23 @@
+{
+  "name": "cs4550-f20-server-node-mpoulos",
+  "version": "1.0.0",
+  "description": "A simple node js middle tier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckennapoulos/cs4550-f20-server-node-mpoulos.git"
+  },
+  "keywords": [],
+  "author": "Mckenna Poulos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckennapoulos/cs4550-f20-server-node-mpoulos/issues"
+  },
+  "homepage": "https://github.com/mckennapoulos/cs4550-f20-server-node-mpoulos#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
